@@ -1,2 +1,2 @@
 # VideoDownloader
-Download youytube videos using python
+Download youtube videos using python
